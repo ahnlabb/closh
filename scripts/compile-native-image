@@ -49,4 +49,4 @@ export __CLOSH_USE_SCI_EVAL__=true
   --report-unsupported-elements-at-runtime \
   -H:+TraceClassInitialization \
   -H:+PrintClassInitialization \
-  -J-Xmx16g
+  -J-Xmx6g
